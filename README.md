@@ -2,8 +2,7 @@
 
 ### Geography
 
-I live in the city of Baltimore, in the state of Maryland, in the United States
-of America.
+I live in Paris.
 
 ### Reading
 
@@ -23,4 +22,4 @@ Last night I dreamt about eating in these restaurants:
 
 ### Contact
 
-The best way to get in touch with me is [on Twitter](https://twitter.com/seankross).
+The best way to get in touch with me is [on Linkedin](https://www.linkedin.com/in/yuting-huang1/).
